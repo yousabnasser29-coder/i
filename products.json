@@ -1,0 +1,200 @@
+[
+ {
+  "name": "شكارة سكر 50 كجم",
+  "cat": "بقالة",
+  "price": 1450,
+  "unit": "شكارة",
+  "emoji": "🧂",
+  "wp": 1400,
+  "wmin": 5,
+  "inStock": true,
+  "id": "d0"
+ },
+ {
+  "name": "أرز مصري",
+  "cat": "بقالة",
+  "price": 32,
+  "unit": "كيلو",
+  "emoji": "🍚",
+  "wp": 29,
+  "wmin": 50,
+  "inStock": true,
+  "id": "d1"
+ },
+ {
+  "name": "مكرونة (كرتونة 20)",
+  "cat": "بقالة",
+  "price": 270,
+  "unit": "كرتونة",
+  "emoji": "🍝",
+  "wp": 255,
+  "wmin": 5,
+  "inStock": true,
+  "id": "d2"
+ },
+ {
+  "name": "شاي (علبة 250 جم)",
+  "cat": "بقالة",
+  "price": 60,
+  "unit": "علبة",
+  "emoji": "🍵",
+  "wp": 55,
+  "wmin": 24,
+  "inStock": true,
+  "id": "d3"
+ },
+ {
+  "name": "دقيق 1 كجم",
+  "cat": "بقالة",
+  "price": 22,
+  "unit": "كيلو",
+  "emoji": "🌾",
+  "wp": 20,
+  "wmin": 50,
+  "inStock": true,
+  "id": "d4"
+ },
+ {
+  "name": "زيت عباد الشمس",
+  "cat": "زيوت وسمن",
+  "price": 75,
+  "unit": "لتر",
+  "emoji": "🫒",
+  "wp": 70,
+  "wmin": 12,
+  "inStock": true,
+  "id": "d5"
+ },
+ {
+  "name": "سمنة نباتية",
+  "cat": "زيوت وسمن",
+  "price": 68,
+  "unit": "كيلو",
+  "emoji": "🧈",
+  "wp": 64,
+  "wmin": 20,
+  "inStock": true,
+  "id": "d6"
+ },
+ {
+  "name": "زيت كرتونة 12 لتر",
+  "cat": "زيوت وسمن",
+  "price": 860,
+  "unit": "كرتونة",
+  "emoji": "🛢️",
+  "wp": 830,
+  "wmin": 3,
+  "inStock": true,
+  "id": "d7"
+ },
+ {
+  "name": "بيض أبيض",
+  "cat": "ألبان وبيض",
+  "price": 130,
+  "unit": "كرتونة 30",
+  "emoji": "🥚",
+  "wp": 124,
+  "wmin": 10,
+  "inStock": true,
+  "id": "d8"
+ },
+ {
+  "name": "لبن (كرتونة 12)",
+  "cat": "ألبان وبيض",
+  "price": 480,
+  "unit": "كرتونة",
+  "emoji": "🥛",
+  "wp": 460,
+  "wmin": 5,
+  "inStock": true,
+  "id": "d9"
+ },
+ {
+  "name": "جبنة رومي",
+  "cat": "ألبان وبيض",
+  "price": 260,
+  "unit": "كيلو",
+  "emoji": "🧀",
+  "wp": 245,
+  "wmin": 10,
+  "inStock": true,
+  "id": "d10"
+ },
+ {
+  "name": "مياه معدنية (كرتونة 12)",
+  "cat": "مشروبات",
+  "price": 60,
+  "unit": "كرتونة",
+  "emoji": "💧",
+  "wp": 56,
+  "wmin": 10,
+  "inStock": true,
+  "id": "d11"
+ },
+ {
+  "name": "عصير (كرتونة 24)",
+  "cat": "مشروبات",
+  "price": 330,
+  "unit": "كرتونة",
+  "emoji": "🧃",
+  "wp": 315,
+  "wmin": 5,
+  "inStock": true,
+  "id": "d12"
+ },
+ {
+  "name": "مشروب غازي (كرتونة 24)",
+  "cat": "مشروبات",
+  "price": 420,
+  "unit": "كرتونة",
+  "emoji": "🥤",
+  "wp": 400,
+  "wmin": 5,
+  "inStock": true,
+  "id": "d13"
+ },
+ {
+  "name": "مسحوق غسيل 2 كجم",
+  "cat": "منظفات",
+  "price": 120,
+  "unit": "عبوة",
+  "emoji": "🧺",
+  "wp": 110,
+  "wmin": 12,
+  "inStock": true,
+  "id": "d14"
+ },
+ {
+  "name": "سائل أطباق (كرتونة 12)",
+  "cat": "منظفات",
+  "price": 380,
+  "unit": "كرتونة",
+  "emoji": "🧼",
+  "wp": 360,
+  "wmin": 4,
+  "inStock": true,
+  "id": "d15"
+ },
+ {
+  "name": "فول معلب (كرتونة 24)",
+  "cat": "معلبات",
+  "price": 520,
+  "unit": "كرتونة",
+  "emoji": "🥫",
+  "wp": 495,
+  "wmin": 4,
+  "inStock": true,
+  "id": "d16"
+ },
+ {
+  "name": "تونة (كرتونة 48)",
+  "cat": "معلبات",
+  "price": 1900,
+  "unit": "كرتونة",
+  "emoji": "🐟",
+  "wp": 1820,
+  "wmin": 2,
+  "inStock": true,
+  "id": "d17"
+ }
+]
